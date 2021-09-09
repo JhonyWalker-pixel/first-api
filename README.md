@@ -4,7 +4,7 @@ Primeira API criada por mim para estudo onde possui dados mocados (são fictíci
 
 ```text
 ⚠ ESTE PROJETO É APENAS UM ESTUDO OS DADOS QUE ESTÃO PRESENTES SÃO FICTÍCIOS 
-E QUALQUER SEMALHANÇA COM INFORMAÇÕES VERIDICAS É MERA CONHECIDÊNCIA
+   E QUALQUER SEMALHANÇA COM INFORMAÇÕES VERIDICAS É MERA CONHECIDÊNCIA
 ```
 
 ## 🛠 Tecnologias
