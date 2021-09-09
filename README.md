@@ -3,7 +3,8 @@
 Primeira API criada por mim para estudo onde possui dados mocados (são fictícios), a proposta é ela ser pública sem necessidade de autenticação pra consumir a mesma. Foi realizado a documentação da mesma utilizando o [Swagger](https://swagger.io/).
 
 ```text
-⚠ ESTES PROJETOS É APENAS UM ESTUDO OS DADOS QUE ESTÃO PRESENTES SÃO FICTÍCIOS E QUALQUER SEMALHANÇA COM INFORMAÇÕES VERIDICAS É MERA CONHECIDÊNCIA
+⚠ ESTE PROJETO É APENAS UM ESTUDO OS DADOS QUE ESTÃO PRESENTES SÃO FICTÍCIOS 
+E QUALQUER SEMALHANÇA COM INFORMAÇÕES VERIDICAS É MERA CONHECIDÊNCIA
 ```
 
 ## 🛠 Tecnologias
