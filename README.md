@@ -25,7 +25,7 @@ Project was built using **Node.js** and the following dependencies:
 
 ## 🔨 Local Installation
 
-You need [Node.js] (https://nodejs.org) version 10 or higher, but if you want to use [Yarn] (https://yarnpkg.com/) you can also just have it on your computer to continue.
+You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to use [Yarn](https://yarnpkg.com/) you can also just have it on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/first-api.git
