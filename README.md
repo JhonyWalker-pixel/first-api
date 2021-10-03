@@ -4,7 +4,7 @@ First API created by me to study where it has mocado data (they are fictitious),
 
 ```text
 ⚠ THIS PROJECT IS JUST A STUDY THE DATA THAT ARE PRESENT IS FICTITIOUS
-    AND ANY SIMILARITY WITH TRUE INFORMATION IS MERE KNOWLEDGE
+   AND ANY SIMILARITY WITH TRUE INFORMATION IS MERE KNOWLEDGE
 ```
 
 ## 🛠 Technologies
