@@ -1,46 +1,46 @@
-## 💻 Resumo do projeto
+## 💻 Project summary
 
-Primeira API criada por mim para estudo onde possui dados mocados (são fictícios), a proposta é ela ser pública sem necessidade de autenticação pra consumir a mesma. Foi realizado a documentação da mesma utilizando o [Swagger](https://swagger.io/).
+First API created by me to study where it has mocado data (they are fictitious), the proposal is to be public without the need for authentication to consume it. It was documented using [Swagger](https://swagger.io/).
 
 ```text
-⚠ ESTE PROJETO É APENAS UM ESTUDO OS DADOS QUE ESTÃO PRESENTES SÃO FICTÍCIOS 
-   E QUALQUER SEMALHANÇA COM INFORMAÇÕES VERIDICAS É MERA CONHECIDÊNCIA
+⚠ THIS PROJECT IS JUST A STUDY THE DATA THAT ARE PRESENT IS FICTITIOUS
+    AND ANY SIMILARITY WITH TRUE INFORMATION IS MERE KNOWLEDGE
 ```
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-#### Projeto foi construído utilizando **Node.js** e as seguintes dependências:
+Project was built using **Node.js** and the following dependencies:
 
-- **[Body Parser](https://www.npmjs.com/package/body-parser)** é um middleware capaz de converter o body da requisição para vários formatos. Um desses formatos é JSON, exatamente o que queremos.
+- **[Body Parser](https://www.npmjs.com/package/body-parser)** - Is a middleware capable of converting the request body to various formats. One of those formats is JSON, exactly what we want.
 
-- **[Config](https://www.npmjs.com/package/config)** para toda vez que tivermos que mudar alguma variável de ambiente porque nosso cliente pediu, teremos que alterar em vários arquivos. Este pacote config nos permite organizar a configuração da nossa aplicação e estender em qualquer arquivo.
+- **[Config](https://www.npmjs.com/package/config)** - For every time we have to change some environment variable because our client asked, we will have to change it in several files. This config package allows us to organize our application configuration and extend into any file.
 
-- **[Express](https://expressjs.com/)** é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
+- **[Express](https://www.npmjs.com/package/express)** - Fast, unopinionated, minimalist web framework for node.
 
-- **[Consign](https://www.npmjs.com/package/consign)** ter que importar nossas rotas, controllers, models é pouco produtivo, então o consign nos ajuda detectando e importando na nossa aplicação.
+- **[Consign](https://www.npmjs.com/package/consign)** - Having to import our routes, controllers, models is not very productive, so the consign helps us detecting and importing in our application.
 
-- **[UUID](https://www.npmjs.com/package/consign)** que ao salvar nossos dados ele gera IDs únicos _(UUID)_ a versão que utilizei é o UUIDv4.
+- **[UUID](https://www.npmjs.com/package/consign)** - That when saving our data it generates unique IDs _(UUID)_ the version I used is UUIDv4.
 
-- **[JS Yaml](https://www.npmjs.com/package/js-yaml)** ajuda o javascript a ler os arquivos yaml e consequentemente a renderiza-los com mais facilidade.
+- **[JS Yaml](https://www.npmjs.com/package/js-yaml)** - Helps javascript to read yaml files and consequently render them more easily.
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
-Você precisará do [Node.js](https://nodejs.org) versão 10 ou superior, instalado no seu computador para continuar.
+You need [Node.js] (https://nodejs.org) version 10 or higher, but if you want to use [Yarn] (https://yarnpkg.com/) you can also just have it on your computer to continue.
 
 ```bash
 git clone https://github.com/JhonyWalker-pixel/first-api.git
 
 $ cd first-api
-$ npm install
+$ npm install or yarn install
 ```
 
-E agora para rodar nossa api localmente basta executar o seguinte comando:
+And now to run our api locally just run the following command:
 
 ```bash
 $ cd first-api
-$ node server.js
+$ npm run dev or yarn run dev
 ```
 
 ## 📖 License
 
-Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
