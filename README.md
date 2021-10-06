@@ -3,7 +3,7 @@
 First API created by me to study where it has mocado data (they are fictitious), the proposal is to be public without the need for authentication to consume it. It was documented using [Swagger](https://swagger.io/).
 
 ```text
-⚠ THIS PROJECT IS JUST A STUDY THE DATA THAT ARE PRESENT IS FICTITIOUS
+⚠ THIS PROJECT IS JUST A STUDY, THE PRESENT DATA ARE FACT
    AND ANY SIMILARITY WITH TRUE INFORMATION IS MERE KNOWLEDGE
 ```
 
