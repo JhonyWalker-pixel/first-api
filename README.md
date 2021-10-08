@@ -38,7 +38,7 @@ And now to run our api locally just run the following command:
 
 ```bash
 $ cd first-api
-$ npm run dev or yarn run dev
+$ npm dev or yarn dev
 ```
 
 ## 📖 License
