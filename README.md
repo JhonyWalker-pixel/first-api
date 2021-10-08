@@ -28,7 +28,7 @@ Project was built using **Node.js** and the following dependencies:
 You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to use [Yarn](https://yarnpkg.com/) you can also just have it on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/first-api.git
+git clone https://github.com/jhonywalkeer/first-api.git
 
 $ cd first-api
 $ npm install or yarn install
