@@ -1,6 +1,6 @@
 ## 💻 Project summary
 
-First API created by me to study where it has mocado data (they are fictitious), the proposal is to be public without the need for authentication to consume it. It was documented using [Swagger](https://swagger.io/).
+First API REST created by me to study where it has mocado data (they are fictitious), the proposal is to be public without the need for authentication to consume it. It was documented using [Swagger](https://swagger.io/).
 
 ```text
 ⚠ THIS PROJECT IS JUST A STUDY, THE PRESENT DATA ARE FACT
